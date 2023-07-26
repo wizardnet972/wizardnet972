@@ -1,5 +1,7 @@
 <h1> <a href="https://shlomi-levi.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there, I'm Shlomi Levi</h1>
 
+<p>Welcome to my page! </br> I'm Shlomi, Software Architecture Consultant.</p>
+
 <h3>Things I code with (in a nutshell)</h3>
 
 <p>
